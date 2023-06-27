@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(222,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(250,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(290,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(324,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(354,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(411,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(427,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(451,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(467,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(483,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(575,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(591,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(615,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(631,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\胡家伟的windows\Desktop\real lab\real lab\drawboard.h(647,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  real lab.vcxproj -> C:\Users\胡家伟的windows\Desktop\real lab\Debug\real lab.exe
